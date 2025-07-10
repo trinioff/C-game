@@ -31,6 +31,7 @@ character newCharacter(int health, int attack, int defense, int speed, int level
 
 int main() 
 {
+    cout << "Game test" << endl;
     cout << "Welcome to the game!" << endl;
     cout << "To create a new character, press enter" << endl;
 
